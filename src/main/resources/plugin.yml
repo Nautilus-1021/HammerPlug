@@ -1,0 +1,4 @@
+name: hammerplugin
+main: fr.flyingnautilus.hammerplugin.HammerPlugin
+version: 1.0.0
+author: FlyingNautilus
